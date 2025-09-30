@@ -58,10 +58,13 @@ This work provides a **data-driven foundation** to improve customer satisfaction
 ---
 
 ## 🗂️ Folder Structure
+
 MavenMovies-Data-Analysis/
-│
+
 ├─ images/ # Visualizations and charts (28 images)
+
 ├─ queries/ # SQL queries used for analysis (.sql files)
+
 ├─ README.md # Project documentation (this file)
 
 
@@ -171,14 +174,14 @@ git clone https://github.com/Athu087/Movies_rental.git
 
 3.Browse and run SQL files inside queries/ to reproduce the results and visuals.
 ---
-## 🙌 Acknowledgements
+### 🙌 Acknowledgements
 This project was inspired by the **Maven Analytics community**, which provides industry-grade datasets for hands-on learning.  
 Special appreciation to open-source contributors and SQL learning resources that made this analysis structured, scalable, and replicable.  
 Finally, gratitude to **data-driven decision making** itself—transforming raw information into actionable insights.  
 
 ---
 
-## 🚀 Future Improvements
+### 🚀 Future Improvements
 - Expand with **Python/Pandas analysis** for deeper exploration.  
 - Build an **interactive dashboard** (Tableau/Power BI).  
 - Add **predictive analytics** for customer retention and movie popularity.  
