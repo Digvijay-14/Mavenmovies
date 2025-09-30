@@ -1,5 +1,8 @@
 # 🎬 Maven Movies Data Analysis: Optimizing Rentals and Customer Engagement
 
+<p align="center">
+  <img src="images/maven movies.png" alt="maven movies" width="850">
+</p>
 
 
 ## 📌 Project Overview
