@@ -3,17 +3,7 @@
 
 
 ## 📌 Project Overview
-Maven Movies Data Analysis is a comprehensive project that turns a movie-rental database into clear, actionable business intelligence. Using **SQL** for deep exploratory data analysis (EDA) and targeted ad-hoc queries against the **MAVENMOVIES** dataset, this project surfaces insights that help rental businesses make smarter decisions across marketing, inventory, operations, and pricing.
-
-**Dataset scope:** movies, categories, languages, actors, inventory, customers, rentals, payments, stores, and staff.
-
-Users of this project will be able to:
-- Understand customer segments, rental preferences, and high-value users for targeted campaigns  
-- Analyze inventory performance to prioritize acquisitions and manage stock levels  
-- Identify revenue drivers (top titles, categories, stations) and pricing opportunities  
-- Track operational KPIs such as rental frequency, monthly trends, and store-level performance
-
-This work provides a **data-driven foundation** to improve customer satisfaction, grow revenue, and streamline operations for a rental business.
+This project analyzes the Maven Movies database using SQL to uncover actionable insights that support smarter decision-making. By performing exploratory data analysis (EDA), examining the schema, and answering critical business queries, it highlights opportunities to improve operations, optimize inventory management, and strengthen marketing strategies, ultimately enabling data-driven growth in the rental business.
 
 ---
 
@@ -69,8 +59,7 @@ MavenMovies-Data-Analysis/
 
 
 ---
-
-## 📋 Analysis & Queries (visualizations included)
+## 📌 Queries & Key Outcomes
 
 1. **Customer Information**  
    ![Customer Info](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/email.png)
@@ -173,7 +162,9 @@ git clone https://github.com/Athu087/Movies_rental.git
   mysql -u <user> -p <database_name> < mavenmovies_dump.sql
 
 3.Browse and run SQL files inside queries/ to reproduce the results and visuals.
+
 ---
+
 ### 🙌 Acknowledgements
 This project was inspired by the **Maven Analytics community**, which provides industry-grade datasets for hands-on learning.  
 Special appreciation to open-source contributors and SQL learning resources that made this analysis structured, scalable, and replicable.  
