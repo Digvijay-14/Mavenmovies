@@ -1,10 +1,10 @@
-# 🎬 Maven Movies Data Analysis: Optimizing Rentals and Customer Engagement
+# 🎬 Maven Movies Data Analysis:  Optimizing Rentals and Customer   Engagement
 
 <p align="center">
   <img src="images/maven movies.png" alt="maven movies" width="850">
 </p>
 
-
+---
 ## 📌 Project Overview
 This project analyzes the Maven Movies database using SQL to uncover actionable insights that support smarter decision-making. By performing exploratory data analysis (EDA), examining the schema, and answering critical business queries, it highlights opportunities to improve operations, optimize inventory management, and strengthen marketing strategies, ultimately enabling data-driven growth in the rental business.
 
@@ -156,26 +156,18 @@ MavenMovies-Data-Analysis/
 - MySQL (or compatible RDBMS)  
 - `MAVENMOVIES` SQL dump or database access
 
-### Installation & Usage
-1. Clone the repository:
-```bash
-git clone https://github.com/Athu087/Movies_rental.git
 
-2.Import the MAVENMOVIES SQL file into MySQL:
-  mysql -u <user> -p <database_name> < mavenmovies_dump.sql
+## 🙌 Acknowledgements
 
-3.Browse and run SQL files inside queries/ to reproduce the results and visuals.
+This project was inspired by the Maven Analytics community.
 
----
+Special thanks to open-source contributors and SQL learning resources.
 
-### 🙌 Acknowledgements
-This project was inspired by the **Maven Analytics community**, which provides industry-grade datasets for hands-on learning.  
-Special appreciation to open-source contributors and SQL learning resources that made this analysis structured, scalable, and replicable.  
-Finally, gratitude to **data-driven decision making** itself—transforming raw information into actionable insights.  
+Gratitude to data-driven decision making itself—transforming raw information into actionable insights.
 
 ---
+## 🚀 Future Improvements
 
-### 🚀 Future Improvements
-- Expand with **Python/Pandas analysis** for deeper exploration.  
-- Build an **interactive dashboard** (Tableau/Power BI).  
-- Add **predictive analytics** for customer retention and movie popularity.  
+* Expand with Python/Pandas analysis for deeper exploration
+* Build an interactive dashboard (Tableau / Power BI)
+* Add predictive analytics for customer retention and movie popularity
