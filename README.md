@@ -159,11 +159,11 @@ MavenMovies-Data-Analysis/
 
 ## 🙌 Acknowledgements
 
-This project was inspired by the Maven Analytics community.
+1.This project was inspired by the Maven Analytics community.
 
-Special thanks to open-source contributors and SQL learning resources.
+2.Special thanks to open-source contributors and SQL learning resources.
 
-Gratitude to data-driven decision making itself—transforming raw information into actionable insights.
+3.Gratitude to data-driven decision making itself—transforming raw information into actionable insights.
 
 ---
 ## 🚀 Future Improvements
