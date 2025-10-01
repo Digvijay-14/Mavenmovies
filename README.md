@@ -128,7 +128,7 @@ MavenMovies-Data-Analysis/
     ![Low Rental Customers](images/NON_LOYAL_CUSTOMERS.png)
 
 22. **Longest Films Sorted by Length and Rental Rate**  
-    ![Longest Films](https://github.com/Athu087/Movies_rental/blob/d5bf4597456956ee94bc974f6f54cd4122f0b2ff/images/longestfilms_sort.png)
+    ![Longest Films](images/longest_film.png)
 
 23. **Categorization of Movies by Length**  
     ![Movies Categorized by Length](images/RENTAL_DURATIONWISE_MOVIES.png)
