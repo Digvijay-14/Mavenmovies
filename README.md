@@ -92,7 +92,7 @@ MavenMovies-Data-Analysis/
    ![Most Spending Customer](images/MOST_SPENDING_CUSTOMER.png)
 
 10. **Store with Most Revenue**  
-    ![Highest Revenue Store](https://github.com/Athu087/Movies_rental/blob/1dfa0affc2a0cd10a1b955543baf23680ec0fcac/images/MOST_REVENUE.png)
+    ![Highest Revenue Store](images/store_id.png)
 
 11. **Monthly Rentals Count**  
     ![Rentals Per Month](images/RENTALS_PER_MONTH.png)
